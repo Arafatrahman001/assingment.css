@@ -1,0 +1,30 @@
+/*header and navigation style*/
+.title{
+    font-weight: 700;
+font-size: 45px;
+color: #131313;
+}
+#nav{
+    display: flex;
+    align-items: flex-end;
+}
+/*banner styles*/
+.banner-title{
+    font-weight: 700;
+font-size: 64px;
+color: #131313;
+}
+.banner-image{
+    width: 1440px;
+height: 700px;
+}
+/*section title and image stule*/
+.section-title{
+    font-weight: 500;
+font-size: 45px;
+}
+/*footer styles*/
+.footer{
+    font-size: 30px;
+    font-weight: 400;
+}
